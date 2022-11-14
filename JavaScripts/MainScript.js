@@ -47,20 +47,16 @@ function sort_algo(){
         case "Selection":Selection();
             
             break;
-        case "Insertion":
-            Insertion();
+        case "Insertion":Insertion();
             
             break;
-        case "Merge":
-            Merge();
+        case "Merge":Merge();
             
             break;
-        case "Quick":
-            Quick();
+        case "Quick":Quick();
             
             break;
-        case "Heap":
-            Heap();
+        case "Heap":Heap();
             
             break;
     

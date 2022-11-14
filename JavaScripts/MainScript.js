@@ -48,19 +48,19 @@ function sort_algo(){
             
             break;
         case "Insertion":
-            insertion();
+            Insertion();
             
             break;
         case "Merge":
-            merge();
+            Merge();
             
             break;
         case "Quick":
-            quick();
+            Quick();
             
             break;
         case "Heap":
-            heap();
+            Heap();
             
             break;
     
